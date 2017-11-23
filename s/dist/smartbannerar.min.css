@@ -33,7 +33,7 @@
     height: 11px;}
 .smartbanner1__info__price{font-size:8px}.smartbanner1__button{    position: absolute;
     top: 21px;
-    right: 16px;
+    left: 16px;
     z-index: 1;
     display: block;
     padding: 8px 8px;
