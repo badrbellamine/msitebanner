@@ -19,7 +19,7 @@
     background-size: 54px 54px;
     background-repeat: no-repeat;}.smartbanner1__info{    position: absolute;
     top: 1px;
-    left: 94px;
+    right: 94px;
     display: flex;
     overflow-y: hidden;
     width: 60%;
