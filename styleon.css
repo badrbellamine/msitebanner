@@ -158,7 +158,7 @@
   opacity: 1;
 }
 .carousel__control--backward {
-  left: 10px;
+  left: 20px;
   -webkit-transform: rotate(-135deg);
           transform: rotate(-135deg);
 }
