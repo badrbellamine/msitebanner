@@ -309,7 +309,7 @@ h3 {
 }
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
-  background-image: url("https://unsplash.it/1500?random");
+  background-image: url("http://oi63.tinypic.com/2porvgk.jpg");
   background-size: cover;
   background-position: center;
 }
